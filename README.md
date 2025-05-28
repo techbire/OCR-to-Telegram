@@ -38,7 +38,7 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 TELEGRAM_CHAT_ID=your_telegram_chat_id
 ```
 
-⚠️ **Make sure Tesseract is installed and the path is correct.**
+⚠️ **Ensure Tesseract OCR is installed: https://github.com/tesseract-ocr/tesseract and make sure Tesseract path is correct.**
 
 ---
 
